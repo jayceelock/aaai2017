@@ -2,4 +2,6 @@
 *.log
 *.bbl
 *.aux
-.bst
+*.bst
+*.blg
+*.pdf
